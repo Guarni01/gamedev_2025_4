@@ -123,6 +123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceIntensity: 0.78
+  minY: 10
 --- !u!54 &6920378691328023418
 Rigidbody:
   m_ObjectHideFlags: 0
